@@ -1,0 +1,1 @@
+uoa_poc6_msgs/r_object_location[] objects

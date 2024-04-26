@@ -1,0 +1,6 @@
+string source_map_layer
+string source_map_space
+string target_map_layer
+string target_map_space
+float64 wait_interval
+uint32 retry

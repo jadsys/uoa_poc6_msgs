@@ -1,0 +1,3 @@
+float64 rmse
+geometry_msgs/Pose relative_position
+uint32 status_code

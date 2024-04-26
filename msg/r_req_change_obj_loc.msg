@@ -1,0 +1,2 @@
+uoa_poc6_msgs/r_time_range range
+bool latest

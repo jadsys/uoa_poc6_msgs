@@ -1,0 +1,3 @@
+uoa_poc6_msgs/r_correct_map_info  map_identities
+float64 rmse
+geometry_msgs/Pose relative_position
